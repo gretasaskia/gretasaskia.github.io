@@ -20,8 +20,8 @@ author: MetADAta
 ###############################################
 
 navbar-links:
-#  About Me: "aboutme"
-Datastory: "datastory"
+  About Me: "aboutme"
+  Datastory: "datastory"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
