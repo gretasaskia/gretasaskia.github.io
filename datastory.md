@@ -5,7 +5,7 @@ subtitle: An analysis on gender bias
 cover-img: /assets/img/landscape_wiki2.png
 ---
 
-Throughout history, women have been marginalized in many communities and in the last few years, gender bias against women has become even more visible in internet applications and online search. In Wikipedia, women are more linked to men than vice versa (1) and Google Translate has a tendency towards male defaults (2). Gender bias that appears online is in fact a reflection of the gender bias in our society. Therefore, we would like to investigate whether there exists a gender bias against women when people play the game of  Wikispeedia. In Wikispeedia, people are asked to navigate from a given source article to a certain target article on Wikipedia. The Wikispeedia dataset (3) provides human navigation paths on Wikipedia that can be used to investigate whether there exists gender bias against women when users navigate from a given source article to a target article, where the target article relates to women.
+Throughout history, women have been marginalized in many communities and in the last few years, gender bias against women has become even more visible in internet applications and online search. In Wikipedia, women are more linked to men than vice versa[^1] and Google Translate has a tendency towards male defaults[^3]. Gender bias that appears online is in fact a reflection of the gender bias in our society. Therefore, we would like to investigate whether there exists a gender bias against women when people play the game of  Wikispeedia. In Wikispeedia, people are asked to navigate from a given source article to a certain target article on Wikipedia. The Wikispeedia datas[^3] provides human navigation paths on Wikipedia that can be used to investigate whether there exists gender bias against women when users navigate from a given source article to a target article, where the target article relates to women.
 
 ## Our data
 
@@ -22,4 +22,10 @@ Wikipedia’s vast collection of articles has been a source of much amusement fo
 ## Testing figures
 
 ![test image](/assets/img/space_wiki.png "Testing figures")
+
+
+
+[^1]: Wagner, C., Garcia, D., Jadidi, M., & Strohmaier, M. (2021). It’s a Man’s Wikipedia? Assessing Gender Inequality in an Online Encyclopedia. Proceedings of the International AAAI Conference on Web and Social Media, 9(1), 454-463. https://doi.org/10.1609/icwsm.v9i1.14628
+[^2]: Prates, M.O.R., Avelar, P.H. & Lamb, L.C. (2020) Assessing gender bias in machine translation: a case study with Google Translate. Neural Comput & Applic 32, 6363–6381. https://doi.org/10.1007/s00521-019-04144-6.
+[^3]: https://snap.stanford.edu/data/wikispeedia.html
 
