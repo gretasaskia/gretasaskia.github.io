@@ -21,5 +21,5 @@ Wikipedia’s vast collection of articles has been a source of much amusement fo
 
 ## Testing figures
 
-![test image](/assets/img/landscape_wiki2.png "Testing figures")
+![test image](/assets/img/space_wiki.png "Testing figures")
 
