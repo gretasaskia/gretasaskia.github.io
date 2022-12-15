@@ -11,7 +11,7 @@ Throughout history, women have been marginalized in many communities and in the 
 
 Wikipedia’s vast collection of articles has been a source of much amusement for many of its users. Wikipedia has grown so big that users have found a way to entertain themselves within the site itself with navigating from one article to another in the shortest possible time. Evidently, a big portion of the articles concern people. You can find articles about all kinds of people, big and small, famous and not so famous. But unfortunately, as in the real world, there is a bias against women. In the Wikispeedia dataset that we investigated, the first thing that struck us was that only a small portion of the articles about people are in fact about women (plot 1). The second thing that struck us was that in the category of Actors, models and celebrities, the portion of women was nearly the same as the portion of men. That was the only category that was noticeably different from the other categories in relation to equal portions of men and women. 
 
-{% include plot2.html %}
+{% include plot2.html %}{: .mx-auto.d-block :}
 
 This unequal distribution is very sad to see, because women play just as big of a role in society as men: There are and have been female politicians, scientists, leaders, artists, engineers and so on (and although there have not been any female presidents of the United States, we hope that changes soon 🙂). 
 
