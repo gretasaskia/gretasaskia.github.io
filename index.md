@@ -26,7 +26,7 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 
 ## Processing the data
 
-<img src="/assets/img/processing_data.png" alt="Processing data"/>
+<img src="assets/img/processing_data.png" alt="Processing data"/>
 
 ## Comparing paths to men and to women in Wikispeedia
 
@@ -34,7 +34,7 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 
 ## Testing figures
 
-<img src="/assets/img/space_wiki.png" alt="Testing figures"/>
+<img src="assets/img/space_wiki.png" alt="Testing figures"/>
 
 ## References
 
