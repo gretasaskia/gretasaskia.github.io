@@ -16,7 +16,6 @@ Wikipedia’s vast collection of articles has been a source of much amusement fo
 The second thing that struck us was the unequal amount of articles about women and men within each of the dataset's categories. The only category where the number of articles about women came close to being the same as the number of articles about men was in the category for *Actors, models and celebrities*. This unequal distribution is very sad to see, because women play just as big of a role in society as men: There are and have been female politicians, scientists, leaders, artists, engineers and so on (and although there have not been any female presidents of the United States, we hope that changes soon 🙂).
 {: .text-justify}
 
-HALLO
 
 {:refdef: style="text-align: center;"}
 {% include plot2.html %} 
