@@ -23,7 +23,7 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 {: .text-justify}
 
 {% include plot3.html %} 
-
+(TODO: Order of categories on the y-axis needs to be consitent between plot 2 and 3)
 
 ## Our goal
 
