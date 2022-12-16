@@ -18,7 +18,7 @@ The second thing that struck us was the unequal amount of articles about women a
 
 hallo
 
-{% include plot2.html %} {: .center}
+<center> {% include plot2.html %} </center>
 
 <iframe src="assets/plots/plot2.html" width="100%" height="600px" class="center" scrolling="no" frameborder="0"> </iframe>
 
