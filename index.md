@@ -10,8 +10,9 @@ Throughout history, women have been marginalized in many communities and in the 
 
 ## The men and the women of Wikispeedia
 
-Wikipedia’s vast collection of articles has been a source of much amusement for many of its users. Wikipedia has grown so big that users have found a way to entertain themselves within the site itself with navigating from one article to another in the shortest possible time. Evidently, a big portion of the articles concern people. You can find articles about all kinds of people, big and small, famous and not so famous. But unfortunately, as in the real world, there is a bias against women. In the Wikispeedia dataset that we investigated, the first thing that struck us was that only a small portion of the articles about people are in fact about women (Malin: plot 1). 
+Wikipedia’s vast collection of articles has been a source of much amusement for many of its users. Wikipedia has grown so big that users have found a way to entertain themselves within the site itself with navigating from one article to another in the shortest possible time. Evidently, a big portion of the articles concern people. You can find articles about all kinds of people, big and small, famous and not so famous. But unfortunately, as in the real world, there is a bias against women. In the Wikispeedia dataset that we investigated, the first thing that struck us was that only a small portion of the articles about people are in fact about women. 
 {: .text-justify}
+{% include plot1.html %}
 
 The second thing that struck us was the unequal amount of articles about women and men within each of the dataset's categories. The only category where the number of articles about women came close to being the same as the number of articles about men was in the category for *Actors, models and celebrities*. This unequal distribution is very sad to see, because women play just as big of a role in society as men: There are and have been female politicians, scientists, leaders, artists, engineers and so on (and although there have not been any female presidents of the United States, we hope that changes soon 🙂).
 {: .text-justify}
