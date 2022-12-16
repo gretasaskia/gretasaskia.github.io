@@ -17,7 +17,7 @@ The second thing that struck us was the unequal amount of articles about women a
 {: .text-justify}
 HALLO
 
-<div data-include="/plot2.html"> </div>
+<div align="center"> <include="/plot2.html"> </div>
 
 
 {% include plot2.html %} 
