@@ -18,7 +18,7 @@ The second thing that struck us was the unequal amount of articles about women a
 
 {% include plot2.html %} 
 
-<iframe src="assets/plots/plot2.html" width="100%" height="100%" class="center" scrolling="no" frameborder="0"> </iframe>
+<iframe src="assets/plots/plot2.html" width="100%" height="600px" class="center" scrolling="no" frameborder="0"> </iframe>
 
 In each category, there are A LOT of articles about men. Sadly, it doesn’t come as a surprise to see the striking comparison of the number of articles about men and the number of articles about women. Men have dominated all aspect of the society for such a long time. In the following years, this will hopefully change for the better.
 {: .text-justify}
