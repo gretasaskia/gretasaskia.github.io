@@ -35,8 +35,6 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 
 ## Comparing paths to men and to women in Wikispeedia
 
-<img src="assets/img/matching.png" alt="Matching on..."/>
-
 ## Conclusions
 
 ## Testing figures
