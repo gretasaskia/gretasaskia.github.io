@@ -34,6 +34,7 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 <img src="assets/img/processing_data.png" alt="Processing data"/>
 
 ## Comparing paths to men and to women in Wikispeedia
+{% include radarplot_test.html %} 
 
 ## Conclusions
 
