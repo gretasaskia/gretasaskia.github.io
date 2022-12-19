@@ -39,12 +39,12 @@ The paths that people navigate through when playing Wikispeedia differ in many w
 
 In relation to these factors that describe a path, we have defined a few metrics that we will use to compare the two groups of paths with women and men target articles. They are the following: 
 {: .text-justify}
-- Success rate: What influence does the gender of a target article have on the success of being reached (i.e., finished)?
-- Playtime: What influence does the gender of a target article have on the duration of a game in a finished path?
-- Path deviation: What influence does the gender of a target article have on the path deviation between a human path and the shortest possible path in the network for all finished paths?
-- Number of back clicks: What influence does the gender of a target article have on the number of back clicks a user takes when navigating through a path?
-- Difficulty rating: What influence does the gender of a target article have on the difficulty rating that a user rates a finished path
-- In-degree: What influence does the gender of a target article have on the in-degree of a target article?
+- Success rate: The fraction of successful paths to a certain target article.
+- Playtime: The duration of a game of a finished path.
+- Path deviation: The difference between the length of the path that it took a player to go from a source article to a target article and the shortest possible length of the same path.
+- Number of back clicks: The number of back clicks a player takes in a path.
+- Difficulty rating: The difficulty rate a player rates a successful finished path.
+- In-degree: The number of articles that lead to a target article.
 {: .text-justify}
 
 ## 
