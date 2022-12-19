@@ -33,7 +33,9 @@ Since there exist more articles about men than women in the dataset, it is there
 The paths that people navigate through when playing Wikispeedia differ in many ways, such as the length of the path itself and how long it takes the player to finish the game, if he indeed finishes. Some players find their paths difficult and need to take a step back with a backclick but some paths are easier. By comparing these factors that describe a path, it is possible to find out whether there exists a gender bias against women when people play the game of Wikispeedia. 
 {: .text-justify}
 
-## 
+In relation to these factors that describe a path, we have defined a few metrics that describe paths. They are the following: 
+- Success rate
+- 
 
 ## 
 
