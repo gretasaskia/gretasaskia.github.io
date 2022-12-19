@@ -25,11 +25,13 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 
 {% include plot3.html %} 
 
-## Our goal
+## But do the paths that lead to target articles about women differ in any way from the paths that lead to target articles about men? 
+The paths that people navigate through when playing Wikispeedia differ in many ways, such as the length of the path itself, how long it takes the player to finish the game, if he indeed finishes. Some players find their paths difficult and need to take a step back with a backclick but paths are easier. By comparing these factors that describe a path, it is possible to find out whether there exists a gender bias against women when people play the game of Wikispeedia. 
+{: .text-justify}
 
-## First insights of data
+## 
 
-## Processing the data
+## 
 
 <img src="assets/img/processing_data.png" alt="Processing data"/>
 
