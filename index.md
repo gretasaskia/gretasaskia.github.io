@@ -58,11 +58,24 @@ In the following radar chart, we can see the geometric mean values of each of th
 
 {% include radarplot_test.html %} 
 
-## 
+### But wait, can we really say that there exists a gender bias against women based on the previous results?
+No, these previous results compare paths leading to a man article to a path leading to a woman article **without any restrictions**. In order for us to tell with any certainty if there is a difference between the two groups, we need to match a man path with a woman path where both paths begin with the same source article and do the comparison on that. 
+{: .text-justify}
+
+RESULTS 
+
+### Are there any more features we have to take into account for our comparison?
+Yes, in fact there are. The paths also have to be restricted on the shortest path length, that is, we can only compare a woman path with a men path that begin with the same source article and have the same shortest possible length of a path.
+{: .text-justify}
+
+RESULTS 
+
+### 
+
 
 <img src="assets/img/processing_data.png" alt="Processing data"/>
 
-## Comparing paths to men and to women in Wikispeedia
+
 
 
 ## Conclusions
