@@ -33,9 +33,13 @@ Since there exist more articles about men than women in the dataset, it is there
 The paths that people navigate through when playing Wikispeedia differ in many ways, such as the length of the path itself and how long it takes the player to finish the game, if he indeed finishes. Some players find their paths difficult and need to take a step back with a backclick but some paths are easier. By comparing these factors that describe a path, it is possible to find out whether there exists a gender bias against women when people play the game of Wikispeedia. 
 {: .text-justify}
 
-In relation to these factors that describe a path, we have defined a few metrics that describe paths. They are the following: 
-- Success rate
-- 
+In relation to these factors that describe a path, we have defined a few metrics. They are the following: 
+- Success rate: What influence does the gender of a target article have on the success of being reached (i.e., finished)?
+- Playtime: What influence does the gender of a target article have on the duration of a game in a finished path?
+- Path deviation: What influence does the gender of a target article have on the path deviation between a human path and the shortest possible path in the network for all finished paths?
+- Number of back clicks: What influence does the gender of a target article have on the number of back clicks a user takes when navigating through a path?
+- Difficulty rating: What influence does the gender of a target article have on the difficulty rating that a user rates a finished path
+- In-degree: What influence does the gender of a target article have on the in-degree of a target article?
 
 ## 
 
