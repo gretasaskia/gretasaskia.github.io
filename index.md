@@ -56,7 +56,7 @@ In the following radar chart, we can see the geometric mean values of each of th
 - People find paths leading to articles about women more difficult than those leading to men.
 {: .text-justify}
 
-{% include radarplot_test.html %} 
+{% include radarplot_realvalues.html %} 
 
 ### But wait, can we really say that there exists a gender bias against women based on the previous results?
 No, these previous results compare paths leading to a man article to a path leading to a woman article **without any restrictions**. In order for us to tell with any certainty if there is a difference between the two groups, we need to match a man path with a woman path where both paths begin with the same source article and do the comparison on that. 
