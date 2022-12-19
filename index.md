@@ -48,6 +48,13 @@ In relation to these factors that describe a path, we have defined a few metrics
 {: .text-justify}
 
 ### Out of all these six characteristics of a path, four of them turn out to indicate that the two groups of men and women target articles are significantly different!
+In the following radar chart, we can see the geometric mean values of each of these four metrics. Every one of these values indicate that there exists a gender bias against women.
+{: .text-justify}
+- The success rate of finishing a path with a target article about a man is higher than the success rate of women. 
+- People tend to be longer to navigate a path towards a women article than towards a man article.
+- The paths leading to an article about a woman are longer than those leading to men.
+- People find paths leading to articles about women more difficult than those leading to men.
+{: .text-justify}
 
 {% include radarplot_test.html %} 
 
