@@ -28,7 +28,7 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 ## Our goal
 
 ## First insights of data
-{% include piechart_test.html %} 
+
 ## Processing the data
 
 <img src="assets/img/processing_data.png" alt="Processing data"/>
