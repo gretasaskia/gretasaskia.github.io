@@ -70,19 +70,12 @@ Yes, in fact there are. The paths also have to be restricted on the shortest pat
 
 RESULTS 
 
-### 
-
+### Hang on a second, we have not yet looked at the categories of our target articles!
+Comparing a path leading to Albert Einstein and a path leading to Celine Dion seems counterintuitive since they are not a part of the same category. Einstein is a scientist and Celine Dion is a singer.
 
 <img src="assets/img/processing_data.png" alt="Processing data"/>
 
-
-
-
 ## Conclusions
-
-## Testing figures
-
-<img src="assets/img/space_wiki.png" alt="Testing figures"/>
 
 ## References
 
