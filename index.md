@@ -47,12 +47,16 @@ In relation to these factors that describe a path, we have defined a few metrics
 - In-degree: The number of articles that lead to a target article.
 {: .text-justify}
 
+### Out of all these six characteristics of a path, four of them turn out to indicate that the two groups of men and women target articles are significantly different!
+
+{% include radarplot_test.html %} 
+
 ## 
 
 <img src="assets/img/processing_data.png" alt="Processing data"/>
 
 ## Comparing paths to men and to women in Wikispeedia
-{% include radarplot_test.html %} 
+
 
 ## Conclusions
 
