@@ -47,7 +47,7 @@ In relation to these factors that describe a path, we have defined a few metrics
 - In-degree: The number of articles that lead to a target article.
 {: .text-justify}
 
-### Out of all these six characteristics of a path, four of them turn out to indicate that the two groups of men and women target articles are significantly different!
+### Out of all these six characteristics of a path, four of them turn out to indicate that the two groups of men and women paths are significantly different!
 In the following radar chart, we can see the geometric mean values of each of these four metrics. Every one of these values indicate that there exists a gender bias against women.
 {: .text-justify}
 - The success rate of finishing a path with a target article about a man is higher than the success rate of women. 
