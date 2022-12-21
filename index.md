@@ -52,13 +52,12 @@ The following radar chart shows the geometric mean values of each of these five 
 - People tend to be longer to navigate a path towards a women article than towards a man article.
 - The paths leading to an article about a woman are longer than those leading to men.
 - People find paths leading to articles about women more difficult than those leading to men.
-{: .text-justify}
 
 {% include radarplot_naive.html %} 
 
 ### But wait, can we really say that there exists a gender bias against women based on the previous results?
 
-<img src="assets/img/no.gif" alt="No"/>
+<img align="center" src="assets/img/no.gif" alt="No"/>
 
 No, these previous results compare paths leading to a man article to a path leading to a woman article **without any restrictions**. In order for us to tell with any certainty if there is a difference between the two groups, we need to match a man path with a woman path where both paths begin with the same source article and do the comparison on that. 
 {: .text-justify}
