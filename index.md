@@ -60,39 +60,24 @@ The following radar chart shows the geometric mean values of each of these five 
 <img src="assets/img/no.gif" alt="No"/>
 {: .center}
 
-No, these previous results compare paths leading to a man article to a path leading to a woman article **without any restrictions**. In order for us to tell with any certainty if there is a difference between the two groups, we need to match a man path with a woman path where both paths begin with the same source article and do the comparison on that. 
+Well no, these previous results compare paths leading to a man article to a path leading to a woman article **without any restrictions**. In order for us to tell with any certainty if there is a difference between the two groups, we need to match a man path with a woman path where both paths begin with the same source article and do the comparison on that. 
 {: .text-justify}
 
-RESULTS 
+Taking this into account, only four out of the six characteristics show that the paths of the two groups are different. These are the success rate, the playtime, the path deviation and the in-degree, i.e., the ones fully colored on the barplot below. The other ones, those colored in a slighlty more transparent way, do not indicate a difference between the paths of the groups since their confidence intervals overlap and thus the result can not be considered significant.
+{: .text-justify}
 
 ### Are there any more features we have to take into account for our comparison?
 Yes, in fact there are. The paths also have to be restricted on the shortest path length, that is, we can only compare a woman path with a men path that begin with the same source article and have the same shortest possible length of a path.
 {: .text-justify}
 
-RESULTS 
+Now, only one characteristic indicates a difference between the two groups, namely the success rate of path. 
+{: .text-justify}
 
 ### Hang on a second, we have not yet looked at the categories of our target articles!
-Comparing a path leading to Albert Einstein and a path leading to Celine Dion seems counterintuitive since they are not a part of the same category. Einstein is a scientist and Celine Dion is a singer.
+Comparing a path leading to Albert Einstein and a path leading to Celine Dion seems strange since they are not a part of the same category. Einstein is a scientist and Celine Dion is a singer! However, the possible matches we are able to do taking this into account is very limited with our amount of data. But, just because they are in different categories doesn't mean they are not equally popular or known. Thus, we can shift our attention to the in-degree of an article. Even though Einstein and Celine Dion have a completely different line of work, they might be equally popular (since they are both quite amazing ;) ).
+{: .text-justify}
 
-...
-
-After matching finished paths on source, shortest path and category, we are left with these 12 paths:
-
-| Source      | Target      | Gender      | Path length | Path deviation | Playtime |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Ganesha     | Elizabeth_II_of_the_United_Kingdom | female | 7 | 4 | 71 |
-| Ganesha    | Mao_Zedong  | male | 4 | 1 | 133 |
-| Margaret_Sanger | William_and_Mary | female | 9 | 6 | 1474 |
-| Margaret_Sanger | James_I_of_England | male | 6 | 3 | 96 |
-| Nintendo | Condoleezza_Rice | female | 4 | 1 | 73 |
-| Nintendo | Osama_bin_Laden | male | 4 | 1 | 116 |
-| Philippines | Margaret_Thatcher | female | 4 | 1 | 60|
-| Philippines | Osama_bin_Laden | male | 4 | 1 | 48 |
-| Space_Race | Elizabeth_I_of_England | female | 7 | 4 | 1860 |
-| Space_Race | Richard_III_of_England | male | 9 | 6 | 392 |
-| Spacecraft_propulsion | Helen | female | 8 | 4 | 210 |
-| Spacecraft_propulsion | William_Ewart_Gladstone | male | 6 | 2 | 100 |
-    
+### In-degrees to the rescue!
 
 
 
