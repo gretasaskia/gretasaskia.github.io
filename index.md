@@ -37,17 +37,18 @@ The paths that people navigate through when playing Wikispeedia differ in many w
 These characteristics of navigation paths can be described in the following way: 
 
 - *Success rate*: The fraction of successful paths to a certain target article.
+- *In-degree*: The number of articles that lead to a target article.
 - *Playtime*: The duration of a game of a finished path.
 - *Path deviation*: The difference between the length of the path that it took a player to go from a source article to a target article and the shortest possible length of the same path.
 - *Number of backclicks*: The number of back clicks a player takes in a path.
 - *Difficulty rating*: The difficulty rate a player rates a successful finished path.
-- *In-degree*: The number of articles that lead to a target article.
 {: .text-justify}
 
-### Out of all these six characteristics of a path, four of them turn out to indicate that the two groups of men and women paths are significantly different!
-In the following radar chart, we can see the geometric mean values of each of these four metrics. Every one of these values indicate that there exists a gender bias against women.
+### Out of all these six characteristics of a path, five of them turn out to indicate that the two groups of men and women paths are indeed different!
+The following radar chart shows the geometric mean values of each of these five metrics. Every one of these values indicate that there exists a gender bias against women.
 {: .text-justify}
 - The success rate of finishing a path with a target article about a man is higher than the success rate of women. 
+- The in-degree for target articles about men is higher than the in-degree for target articles about women, thus there are more possibilites to reach the men than the women.
 - People tend to be longer to navigate a path towards a women article than towards a man article.
 - The paths leading to an article about a woman are longer than those leading to men.
 - People find paths leading to articles about women more difficult than those leading to men.
