@@ -27,9 +27,7 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 
 Since there exist more articles about men than women in the dataset, it is therefore clear that more paths lead to target articles about men! But are people even able to find the target article and finish the game? As it turns out, the fraction of paths that lead to women and are unfinished is higher than the fraction of paths that lead to women and are finished. And as for the men, the reverse is true.
 
-{% include piechart2.html %}
-
-Then, we can see that a higher fraction of men articles are found (i.e., finished) compared to those of women.
+Additionally, a higher fraction of the paths that lead to target articles about men are finished than those of the paths that lead to target articles about women! And for the unfinished paths, the women have the "victory" as the fraction of paths that lead to women articles is higher than those for men articles.
 
 {% include piechart.html %} 
 
