@@ -84,9 +84,9 @@ Comparing a path leading to Albert Einstein and a path leading to Celine Dion se
 
 ### In-degrees to the rescue!
 Matching pairs on the same source, shortest path lenght and a similar in-degree provides us with enough data to see if there is a difference between the paths towards the two groups of articles. As before, we only see a difference in the success rate of the two groups, and a difference that points to a gender bias against women as well.
+{: .text-justify}
 
 {% include degree_match.html %} 
-
 
 ## Conclusions
 
