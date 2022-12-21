@@ -73,7 +73,11 @@ RESULTS
 ### Hang on a second, we have not yet looked at the categories of our target articles!
 Comparing a path leading to Albert Einstein and a path leading to Celine Dion seems counterintuitive since they are not a part of the same category. Einstein is a scientist and Celine Dion is a singer.
 
-<img src="assets/img/processing_data.png" alt="Processing data"/>
+...
+
+After matching finished paths on source, shortest path and category, we are left with these 12 paths:
+
+<center>
 
 | Source      | Target      | Gender      | Path length | Path deviation | Playtime |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -89,6 +93,8 @@ Comparing a path leading to Albert Einstein and a path leading to Celine Dion se
 | Space_Race | Richard_III_of_England | male | 9 | 6 | 392 |
 | Spacecraft_propulsion | Helen | female | 8 | 4 | 210 |
 | Spacecraft_propulsion | William_Ewart_Gladstone | male | 6 | 2 | 100 |
+    
+</center>
 
 ## Conclusions
 
