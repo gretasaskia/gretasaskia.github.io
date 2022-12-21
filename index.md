@@ -79,6 +79,16 @@ Comparing a path leading to Albert Einstein and a path leading to Celine Dion se
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Ganesha     | Elizabeth_II_of_the_United_Kingdom | female | 7 | 4 | 71 |
 | Ganeshah    | Mao_Zedong  | male | 4 | 1 | 133 |
+| Margaret_Sanger | William_and_Mary | female | 9 | 6 | 1474 |
+| Margaret_Sanger | James_I_of_England | male | 6 | 3 | 96 |
+| Nintendo | Condoleezza_Rice | female | 4 | 1 | 73 |
+| Nintendo | Osama_bin_Laden | male | 4 | 1 | 116 |
+| Philippines | Margaret_Thatcher | female | 4 | 1 | 60|
+| Philippines | Osama_bin_Laden | male | 4 | 1 | 48 |
+| Space_Race | Elizabeth_I_of_England | female | 7 | 4 | 1860 |
+| Space_Race | Richard_III_of_England | male | 9 | 6 | 392 |
+| Spacecraft_propulsion | Helen | female | 8 | 4 | 210 |
+| Spacecraft_propulsion | William_Ewart_Gladstone | male | 6 | 2 | 100 |
 
 ## Conclusions
 
