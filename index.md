@@ -77,6 +77,10 @@ Comparing a path leading to Albert Einstein and a path leading to Celine Dion se
 
 After matching finished paths on source, shortest path and category, we are left with these 12 paths:
 
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
+
 | Source      | Target      | Gender      | Path length | Path deviation | Playtime |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Ganesha     | Elizabeth_II_of_the_United_Kingdom | female | 7 | 4 | 71 |
@@ -91,6 +95,8 @@ After matching finished paths on source, shortest path and category, we are left
 | Space_Race | Richard_III_of_England | male | 9 | 6 | 392 |
 | Spacecraft_propulsion | Helen | female | 8 | 4 | 210 |
 | Spacecraft_propulsion | William_Ewart_Gladstone | male | 6 | 2 | 100 |
+    
+</div>
 
 
 ## Conclusions
