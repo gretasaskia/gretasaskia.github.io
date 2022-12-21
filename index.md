@@ -89,7 +89,8 @@ Matching pairs on the same source, shortest path lenght and a similar in-degree 
 {% include degree_match.html %} 
 
 ## Conclusions
-
+Narrowing down, we still see a difference in our characteristics that suggests that there exists a gender bias against women in Wikispeedia. This gender bias has indicated itself in not only the way Wikispeedia is constructed as well as in the way its players play it. Wikispeedia's dataset is constructed with a much smaller amount of data that refers to articles about women and the way that the articles are connected discriminate against women. Overall, there must be some confounding factor that leads to a difference in the success rate, even though this time we did not find it. When provided with a larger amount of data, our results will be even more concrete. 
+{: .text-justify}
 
 ## References
 
