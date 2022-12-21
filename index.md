@@ -82,7 +82,7 @@ After matching finished paths on source, shortest path and category, we are left
 | Source      | Target      | Gender      | Path length | Path deviation | Playtime |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Ganesha     | Elizabeth_II_of_the_United_Kingdom | female | 7 | 4 | 71 |
-| Ganeshah    | Mao_Zedong  | male | 4 | 1 | 133 |
+| Ganesha    | Mao_Zedong  | male | 4 | 1 | 133 |
 | Margaret_Sanger | William_and_Mary | female | 9 | 6 | 1474 |
 | Margaret_Sanger | James_I_of_England | male | 6 | 3 | 96 |
 | Nintendo | Condoleezza_Rice | female | 4 | 1 | 73 |
