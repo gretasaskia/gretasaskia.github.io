@@ -77,9 +77,7 @@ Comparing a path leading to Albert Einstein and a path leading to Celine Dion se
 
 After matching finished paths on source, shortest path and category, we are left with these 12 paths:
 
-<div style="margin-left: auto;
-            margin-right: auto;
-            width: 30%">
+<div align="center">
 
 | Source      | Target      | Gender      | Path length | Path deviation | Playtime |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
