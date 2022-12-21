@@ -75,7 +75,10 @@ Comparing a path leading to Albert Einstein and a path leading to Celine Dion se
 
 <img src="assets/img/processing_data.png" alt="Processing data"/>
 
-{% include most_matched.csv %} 
+| Source      | Target      | Gender      | Path length | Path deviation | Playtime |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Ganesha     | Elizabeth_II_of_the_United_Kingdom | female | 7 | 4 | 71 |
+| Ganeshah    | Mao_Zedong  | male | 4 | 1 | 133 |
 
 ## Conclusions
 
