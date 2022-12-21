@@ -25,24 +25,23 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 
 {% include plot3.html %} 
 
-Since there exist more articles about men than women in the dataset, it is therefore clear that more paths lead to target articles about men! But are people even able to find the target article and finish the game? As it turns out, the fraction of paths that lead to women and are unfinished is higher than the fraction of paths that lead to women and are finished. And as for the men, the reverse is true.
-
 Additionally, a higher fraction of the paths that lead to target articles about men are finished than those of the paths that lead to target articles about women! And for the unfinished paths, the women have the "victory" as the fraction of paths that lead to women articles is higher than those for men articles.
+{: .text-justify}
 
 {% include piechart.html %} 
 
 ## But do the paths that lead to target articles about women differ in any way from the paths that lead to target articles about men? 
-The paths that people navigate through when playing Wikispeedia differ in many ways, such as the length of the path itself and how long it takes the player to finish the game, if he indeed finishes. Some players find their paths difficult and need to take a step back with a backclick but some paths are easier. By comparing these factors that describe a path, it is possible to find out whether there exists a gender bias against women when people play the game of Wikispeedia. 
+The paths that people navigate through when playing Wikispeedia differ in many ways, such as the length of the path itself and how long it takes the player to finish the game, if he indeed finishes. Some players find their paths difficult and need to take a step back to the previous article with a backclick but some paths are easier. By comparing these characteristics that describe a path, it is possible to find out whether there exists a gender bias against women when people play the game of Wikispeedia. 
 {: .text-justify}
 
-In relation to these factors that describe a path, we have defined a few metrics that we will use to compare the two groups of paths with women and men target articles. They are the following: 
-{: .text-justify}
-- Success rate: The fraction of successful paths to a certain target article.
-- Playtime: The duration of a game of a finished path.
-- Path deviation: The difference between the length of the path that it took a player to go from a source article to a target article and the shortest possible length of the same path.
-- Number of back clicks: The number of back clicks a player takes in a path.
-- Difficulty rating: The difficulty rate a player rates a successful finished path.
-- In-degree: The number of articles that lead to a target article.
+These characteristics of navigation paths can be described in the following way: 
+
+- *Success rate*: The fraction of successful paths to a certain target article.
+- *Playtime*: The duration of a game of a finished path.
+- *Path deviation*: The difference between the length of the path that it took a player to go from a source article to a target article and the shortest possible length of the same path.
+- *Number of backclicks*: The number of back clicks a player takes in a path.
+- *Difficulty rating*: The difficulty rate a player rates a successful finished path.
+- *In-degree*: The number of articles that lead to a target article.
 {: .text-justify}
 
 ### Out of all these six characteristics of a path, four of them turn out to indicate that the two groups of men and women paths are significantly different!
