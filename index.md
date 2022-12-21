@@ -47,6 +47,7 @@ These characteristics of navigation paths can be described in the following way:
 ### Out of all these six characteristics of a path, five of them turn out to indicate that the two groups of men and women paths are indeed different!
 The following radar chart shows the geometric mean values of each of these five metrics. Every one of these values indicate that there exists a gender bias against women.
 {: .text-justify}
+
 - The success rate of finishing a path with a target article about a man is higher than the success rate of women. 
 - The in-degree for target articles about men is higher than the in-degree for target articles about women, thus there are more possibilites to reach the men than the women.
 - People tend to be longer to navigate a path towards a women article than towards a man article.
@@ -66,6 +67,8 @@ Well no, these previous results compare paths leading to a man article to a path
 Taking this into account, only four out of the six characteristics show that the paths of the two groups are different. These are the success rate, the playtime, the path deviation and the in-degree, i.e., the ones fully colored on the barplot below. The other ones, those colored in a slighlty more transparent way, do not indicate a difference between the paths of the groups since their confidence intervals overlap and thus the result can not be considered significant.
 {: .text-justify}
 
+{% include src_match.html %} 
+
 ### Are there any more features we have to take into account for our comparison?
 Yes, in fact there are. The paths also have to be restricted on the shortest path length, that is, we can only compare a woman path with a men path that begin with the same source article and have the same shortest possible length of a path.
 {: .text-justify}
@@ -73,12 +76,15 @@ Yes, in fact there are. The paths also have to be restricted on the shortest pat
 Now, only one characteristic indicates a difference between the two groups, namely the success rate of path. 
 {: .text-justify}
 
+{% include shpath_match.html %} 
+
 ### Hang on a second, we have not yet looked at the categories of our target articles!
 Comparing a path leading to Albert Einstein and a path leading to Celine Dion seems strange since they are not a part of the same category. Einstein is a scientist and Celine Dion is a singer! However, the possible matches we are able to do taking this into account is very limited with our amount of data. But, just because they are in different categories doesn't mean they are not equally popular or known. Thus, we can shift our attention to the in-degree of an article. Even though Einstein and Celine Dion have a completely different line of work, they might be equally popular (since they are both quite amazing ;) ).
 {: .text-justify}
 
 ### In-degrees to the rescue!
 
+{% include degree_match.html %} 
 
 
 ## Conclusions
