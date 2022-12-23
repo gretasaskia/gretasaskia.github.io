@@ -15,7 +15,7 @@ Wikipedia’s vast collection of articles has been a source of much amusement fo
 
 {% include plot1.html %}
 
-The second thing that struck us was the unequal amount of articles about women and men within each of the dataset's categories. The only category where the number of articles about women came close to being the same as the number of articles about men was in the category for *Actors, models and celebrities*. This unequal distribution is very sad to see, because women play just as big of a role in society as men: There are and have been female politicians, scientists, leaders, artists, engineers and so on (and although there have not been any female presidents of the United States, we hope that changes soon :pray: ).
+The second thing that struck us was the unequal amount of articles about women and men within each of the dataset's categories. The only category where the number of articles about women came close to being the same as the number of articles about men was in the category for *Actors, models and celebrities*. This unequal distribution is very sad to see, because women play just as big of a role in society as men: There are and have been female politicians, scientists, leaders, artists, engineers and so on (and although there have not been any female presidents of the United States, we hope that changes soon).
 {: .text-justify}
 
 {% include plot2.html %} 
@@ -79,7 +79,7 @@ Now, only one characteristic indicates a difference between the two groups, name
 {% include shpath_match.html %} 
 
 ### Hang on a second, we have not yet looked at the categories of our target articles!
-Comparing a path leading to Albert Einstein and a path leading to Celine Dion seems strange since they are not a part of the same category. Einstein is a scientist and Celine Dion is a singer! However, the possible matches we are able to do taking this into account is very limited with our amount of data. But, just because they are in different categories doesn't mean they are not equally popular or known. Thus, we can shift our attention to the in-degree of an article. Even though Einstein and Celine Dion have a completely different line of work, they might be equally popular (since they are both quite amazing :wink: ).
+Comparing a path leading to Albert Einstein and a path leading to Celine Dion seems strange since they are not a part of the same category. Einstein is a scientist and Celine Dion is a singer! However, the possible matches we are able to do taking this into account is very limited with our amount of data. But, just because they are in different categories doesn't mean they are not equally popular or known. Thus, we can shift our attention to the in-degree of an article. Even though Einstein and Celine Dion have a completely different line of work, they might be equally popular (since they are both quite amazing).
 {: .text-justify}
 
 ### In-degrees to the rescue!
