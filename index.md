@@ -25,7 +25,7 @@ In each category, there are A LOT of articles about men. Sadly, it doesn’t com
 
 {% include plot3.html %} 
 
-Additionally, a higher fraction of the paths that lead to target articles about men are finished than those of the paths that lead to target articles about women! And for the unfinished paths, the women have the "victory" as the fraction of paths that lead to women articles is higher than those for men articles.
+Additionally, a higher fraction of the paths that lead to target articles about men are finished than those of the paths that lead to target articles about women! And for the unfinished paths, the women have the "victory" as the fraction of unfinished paths that lead to women articles is higher than those for men articles.
 {: .text-justify}
 
 {% include piechart.html %} 
@@ -37,11 +37,11 @@ The paths that people navigate through when playing Wikispeedia differ in many w
 These characteristics of navigation paths can be described in the following way: 
 
 - *Success rate*: The fraction of successful paths to a certain target article.
-- *In-degree*: The number of articles that lead to a target article.
+- *In-degree*: The number of other articles that contain a link to a target article.
 - *Playtime*: The duration of a game of a finished path.
-- *Path deviation*: The difference between the length of the path that it took a player to go from a source article to a target article and the shortest possible length of the same path.
+- *Path deviation*: The difference between the length of the path that it took a player to go from a source article to a target article and the length of the shortest possible path between the source and target article.
 - *Number of backclicks*: The number of back clicks a player takes in a path.
-- *Difficulty rating*: The difficulty rate a player rates a successful finished path.
+- *Difficulty rating*: The difficulty rate a player rates a successful finished path, on the scale 1 (easy) to 5 (brutal).
 {: .text-justify}
 
 ### Out of all these six characteristics of a path, five of them turn out to indicate that the two groups of men and women paths are indeed different!
@@ -50,7 +50,7 @@ The following radar chart shows the geometric mean values of each of these five 
 
 - The success rate of finishing a path with a target article about a man is higher than the success rate of women. 
 - The in-degree for target articles about men is higher than the in-degree for target articles about women, thus there are more possibilites to reach the men than the women.
-- People tend to be longer to navigate a path towards a women article than towards a man article.
+- People tend to take longer to navigate a path towards a woman article than towards a man article.
 - The paths leading to an article about a woman are longer than those leading to men.
 - People find paths leading to articles about women more difficult than those leading to men.
 
