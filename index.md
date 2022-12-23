@@ -87,7 +87,7 @@ Comparing a path leading to Albert Einstein and a path leading to Celine Dion se
 Matching pairs on the same source, shortest path lenght and a similar in-degree provides us with enough data to see if there is a difference between the paths towards the two groups of articles. As before, we only see a difference in the success rate of the two groups, and a difference that points to a gender bias against women as well.
 {: .text-justify}
 
-{% include degree_plot.html %} 
+{% include degree_match.html %} 
 
 ## Conclusion
 Narrowing down, we still see a difference in our characteristics that suggests that there exists a gender bias against women in Wikispeedia. This gender bias has indicated itself in not only the way Wikispeedia is constructed as well as in the way its players play it. Wikispeedia's dataset is constructed with a much smaller amount of data that refers to articles about women and the way that the articles are connected discriminate against women. Overall, there must be some confounding factor that leads to a difference in the success rate, even though this time we did not find it. When provided with a larger amount of data, our results will be even more concrete. 
