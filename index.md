@@ -37,10 +37,10 @@ The paths that people navigate through when playing Wikispeedia differ in many w
 These characteristics of navigation paths can be described in the following way: 
 
 - *Success rate*: The fraction of successful paths to a certain target article.
-- *In-degree*: The number of other articles that contain a link to a target article.
+- *In-degree*: The in-degree of a target article describes the number of other articles that have a link to it. If it is high for a certain article, then it is easier to access it compared to an article that has a lower in-degree.
 - *Playtime*: The duration of a game of a finished path.
 - *Path deviation*: The difference between the length of the path that it took a player to go from a source article to a target article and the length of the shortest possible path between the source and target article.
-- *Number of backclicks*: The number of back clicks a player takes in a path.
+- *Number of back clicks*: The number of back clicks a player takes in a path.
 - *Difficulty rating*: The difficulty rate a player rates a successful finished path, on the scale 1 (easy) to 5 (brutal).
 {: .text-justify}
 
@@ -53,6 +53,7 @@ The following radar chart shows the geometric mean values of each of these five 
 - People tend to take longer to navigate a path towards a woman article than towards a man article.
 - The paths leading to an article about a woman are longer than those leading to men.
 - People find paths leading to articles about women more difficult than those leading to men.
+{: .text-justify}
 
 {% include radarplot_naive.html %} 
 
