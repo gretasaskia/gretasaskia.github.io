@@ -65,7 +65,7 @@ The following radar chart shows the geometric mean values of each of these five 
 Well no, these previous results compare paths leading to a man article to a path leading to a woman article **without any restrictions**. In order for us to tell with any certainty if there is a difference between the two groups, we need to match a man path with a woman path where both paths begin with the same source article and do the comparison on that. 
 {: .text-justify}
 
-Taking this into account, only four out of the six characteristics show that the paths of the two groups are different. These are the success rate, the playtime, the path deviation and the in-degree, i.e., the ones fully colored on the barplot below. The other ones, those colored in a slighlty more transparent way, do not indicate a difference between the paths of the groups since their confidence intervals overlap and thus the result can not be considered significant.
+Taking this into account, only four out of the six characteristics show that the paths of the two groups are different. These are the success rate, the playtime, the path deviation and the in-degree, i.e., the ones fully colored on the barplot below. The other ones, those colored in a slightly more transparent way, do not indicate a difference between the paths of the groups since their confidence intervals overlap and thus the result can not be considered significant.
 {: .text-justify}
 
 {% include src_match.html %} 
